@@ -1,4 +1,4 @@
-# spring-boot-mongodb-mogorepository-demo
+# spring-boot-mongodb-mongorepository-demo
 
 MongoRepository 사용
 
